@@ -6,5 +6,10 @@
 * [头条号：Java实战技术](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
 * [公众号：JavaQ](https://mp.weixin.qq.com/s/QE2PY9B4iFFV9gCabkJzcw?_blank)
 * 微信号：wind7rui
+* [掘金：wind瑞_]：(https://juejin.im/user/59dc1e88f265da430b7a3038)
+* [知乎：王同学]：(https://www.zhihu.com/people/_JavaQ)
+* [CSDN：wind瑞]：（https://blog.csdn.net/windrui）
+* [简书：JavaQ]：(https://www.jianshu.com/u/1a8d4abaddf2)
+* [博客园：windrui]：(https://www.cnblogs.com/windrui/)
 
 **学之多，而后知之少**！朋友们点【Star】是我持续更新的最大动力!
