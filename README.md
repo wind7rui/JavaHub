@@ -7,4 +7,4 @@
 * [公众号：JavaQ](https://mp.weixin.qq.com/s/QE2PY9B4iFFV9gCabkJzcw?_blank)
 * 微信号：wind7rui
 
-**学之多，而后知之少！**朋友们点【Star】是我持续更新的最大动力!
+**学之多，而后知之少**！朋友们点【Star】是我持续更新的最大动力!
