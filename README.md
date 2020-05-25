@@ -4,7 +4,16 @@
 # 目录 
 不断完善中...
 - 基础篇
-  - [我画了25张图展示线程池工作原理和实现原理，原创干货，建议先收藏再阅读](https://mp.weixin.qq.com/s/1oEdi_J79lWaX0649N6BPg)
+  - Java基础
+    - [我画了25张图展示线程池工作原理和实现原理，原创干货，建议先收藏再阅读](https://mp.weixin.qq.com/s/1oEdi_J79lWaX0649N6BPg)
+    - [Java注解是如何玩转的，面试官和我聊了半个小时](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484696&idx=1&sn=54c8b5ad9373d88564032c8bc4bc0926&chksm=e9bf5786dec8de90506632f193789cc088165985e35320a5e2a64f6a1230f5d74c9118a811af&token=1138093002&lang=zh_CN#rd) 
+    - [面试官一步一步的套路你，为什么SimpleDateFormat不是线程安全的](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484707&idx=1&sn=3eea7537f43fcf0cd646d9bc64fd657f&chksm=e9bf57bddec8deab4ffea25c68197d82c1b46ba58ad0963c9fc0ee6d79f9c47c29660875187f&token=1138093002&lang=zh_CN#rd)
+    - [都说ThreadLocal被面试官问烂了，可为什么面试官还是喜欢继续问](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484701&idx=1&sn=67ba3d2cedbd7a475371acfc474210e1&chksm=e9bf5783dec8de95e76115bc1fbd14401f8b41030d7aa5ebd42894eba56f138fd03f153718a4&token=1138093002&lang=zh_CN#rd)
+    - [没使用加号拼接字符串，面试官竟然问我为什么](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484712&idx=1&sn=982a0801e878700b42b48f7fae3e5f30&chksm=e9bf57b6dec8dea04544c551c8206897f66efb81f49532b65df4ff878ad284c261b48ad9e3dd&token=1138093002&lang=zh_CN#rd)
+    - [String引发的提问，我差点跪了](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484671&idx=1&sn=b33d3a54250b217d0945c69a4e3d3212&chksm=e9bf5661dec8df777af465067f81e4ac57cb3aec2ca5a50c5b22a695d23ce99d8a8150c407b6&token=1138093002&lang=zh_CN#rd)
+    - [就写了一行代码，被问了这么多问题](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484653&idx=1&sn=7d433692eaba49f33d90b1f81dafd23d&chksm=e9bf5673dec8df65f0511062a2e2bd9f55f091e8eba9a063ee8669ee7d50a62eb4c04f3bb071&token=1138093002&lang=zh_CN#rd)
+    - []()
+    
   
 - 提高篇
   - 并发编程
