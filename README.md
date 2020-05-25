@@ -1,5 +1,5 @@
 我会根据下图中的技能点持续更新原创内容，技能列举的可能不是很完善，朋友们可以去【公众号】或【微信】给我提意见！都到这了，点个【Star】防走丢哦！原创内容公众号【JavaQ】首发，关注不迷路。<br/>
-![Java工程师之路](https://img-blog.csdnimg.cn/20200525210013393.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RpYW5ydWlydWk=,size_16,color_FFFFFF,t_70#pic_center)
+![Java工程师之路](https://img-blog.csdnimg.cn/20200525210013393.png)
 
 # 目录 
 不断完善中
