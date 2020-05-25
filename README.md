@@ -7,7 +7,7 @@
   - [我画了25张图展示线程池工作原理和实现原理，原创干货，建议先收藏再阅读](https://mp.weixin.qq.com/s/1oEdi_J79lWaX0649N6BPg)
   
 - 提高篇
-  Spring Boot2
+  - Spring Boot2
     - [深入Spring Boot (一)：快速入门](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484131&idx=1&sn=33fe0f3d15b0f2a8febe8b1521952463&chksm=e9bf507ddec8d96bc4e777f4ce58c95235769ad03ea1a2a28bb33590f0b8f4c1f62a223c58f3&token=1138093002&lang=zh_CN#rd)
     - [深入Spring Boot (二)：Spring Boot对构建系统的支持](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484139&idx=1&sn=abfaabae16a8d5351555e0e928f31d01&chksm=e9bf5075dec8d963fcf512303e9dbe0e46d147ffabf130afe98c880847bdd567cabe6977a1c2&token=1138093002&lang=zh_CN#rd)
     - [深入Spring Boot (三)：Properties属性配置文件使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484146&idx=1&sn=5f1bb502e1d2563d43c915f9c56ae07c&chksm=e9bf506cdec8d97aef9f9723fa1d55f2a56aa9c5961a8588aced407837a5a3e9ccb723384b9f&token=1138093002&lang=zh_CN#rd)
