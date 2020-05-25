@@ -22,6 +22,25 @@
     - [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484263&idx=1&sn=9df870dc31a790b217f29884ba40ef53&chksm=e9bf51f9dec8d8ef71cdba6511ee85574105b00f6a1009b28489d4129dfecd103310526f9d36&token=1138093002&lang=zh_CN#rd)
     - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484573&idx=1&sn=40cd5ff38d36df649c52110198e941a8&chksm=e9bf5603dec8df156fbf662e579a2c0eb98517c178d10e37b371f817d8bac9688fd3e7a9a0e3&token=1138093002&lang=zh_CN#rd)
 
+  - 并发编程
+    - [高并发编程-AQS深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484320&idx=1&sn=9059f8308b07898a2cbbc15780a61f43&chksm=e9bf513edec8d82881f7360c9c4cf14bec405e6133f4d14ab700a74eda6322629ee8ce8806ba&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-CountDownLatch深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484326&idx=1&sn=6d8b68802adb70c5de1f1b8a2cd2a6c1&chksm=e9bf5138dec8d82ecb46f4704f8459c05d842d0d77f5bef24cac8283f88ade1d4f8685dac162&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-CAS深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484335&idx=1&sn=64f675e9342cf52c167e9916338497ff&chksm=e9bf5131dec8d827625354860d8185da5ed6f51e7a235113741beb4b48a46023215255c02e99&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-CyclicBarrier深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484339&idx=1&sn=239c24306bd835be2abf5224566c1f85&chksm=e9bf512ddec8d83b8be383c8e62e0a8028f3cf4ad9df777a30f2c3a0cfa32bdcdedeeace77c4&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-Semaphore深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484344&idx=1&sn=e0276a89ad9783b268f9c08f2691edcb&chksm=e9bf5126dec8d8300a6919b8b8e2691cc2dc5f6596e3e1a55511c5269f78264c8a378004e925&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-ReentrantLock公平锁深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484348&idx=1&sn=f6d668a6283ad33a71041bbcfa6a48d7&chksm=e9bf5122dec8d834d305801c2844fd1c7e68f7f0dc802aba17fa2b32499c3c64d4a044c28fb7&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-ReentrantLock非公平锁深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484357&idx=1&sn=a651dc2427449268ccc92d389d98b92b&chksm=e9bf515bdec8d84dce67a861f03a708e6da62aaf9386aae7c268005eff89105d2e09563c6a44&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-ReentrantReadWriteLock深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484361&idx=1&sn=925f36e47640aa57293f27b7c92b6d97&chksm=e9bf5157dec8d841936df507a245b46123f35fc188e0af518d6c6abda25e3574cba61460d093&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-Condition深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484367&idx=1&sn=44bcf3eac0a10754a1de17759f41cb95&chksm=e9bf5151dec8d847601727eaac8646d2c907cc217b3ec32d631419485709cd99463111ec6ed3&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-synchronized深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484378&idx=1&sn=c0c9fd1121e49e89d45c5578f4159562&chksm=e9bf5144dec8d8526ab953ba35260d3c90b6c131ff5c920c6090cae3ac7e9e7b5f9be4df20d3&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-synchronized深入解析深挖](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484385&idx=1&sn=b941bba79dedfdbbe46e4639c512f188&chksm=e9bf517fdec8d86995b0086aee9c591bf00bc4505b79d72989b933876ab5dd9271cf7c40c7bf&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-锁优化详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484393&idx=1&sn=ee05cfe2cd9e05d059accd756c91f098&chksm=e9bf5177dec8d861261cec23dfa3220bef156a535ba3a2a738bad066dd4febe1d7849c5454cb&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-volatile详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484400&idx=1&sn=e8a62bebb5f5b69105bc5e7647037897&chksm=e9bf516edec8d878d49264e10a9660868dedf4644943c4d65dea33f380e4c50bad9746771711&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-happens-before](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484423&idx=1&sn=c579b7be0ce23e4407fde5224ec70f39&chksm=e9bf5699dec8df8f690eb743b4a8674d69b0a81dd13ec7970c4fabd3091318538b701cdeadd6&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-HashMap深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484428&idx=1&sn=8267d69b174556ba052acf961c5fb07b&chksm=e9bf5692dec8df84d41a3f5264b53f74212eae43f428d047eb5f0a340db3bf5fbc41df8445e5&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-ThreadLocal深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484433&idx=1&sn=e0e66e5644f0f403a9a7f4d6226cf8af&chksm=e9bf568fdec8df99a6a35d609d46e285c35a9474a3efd8e13162749d8e7ab7a864fbe482279f&token=1138093002&lang=zh_CN#rd)
+    - [高并发编程-ExecutorCompletionService深入解析](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484563&idx=1&sn=d3b69e4acc957afb0b64af7e3b257e0e&chksm=e9bf560ddec8df1b07718acb9eb142f980712363c49988ba25b12535142c9c483936f84324a5&token=1138093002&lang=zh_CN#rd)
+
 ## 关于我
 * [头条号：Java实战技术](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
 * [公众号：JavaQ](https://mp.weixin.qq.com/s/QE2PY9B4iFFV9gCabkJzcw?_blank)
