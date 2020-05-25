@@ -1,4 +1,3 @@
-# JavaHub
 我会根据下图中的技能点持续更新原创内容，技能列举的可能不是很完善，朋友们可以去【公众号】或【微信】给我提意见！都到这了，点个【Star】防走丢哦！原创内容公众号【JavaQ】首发，关注不迷路。<br/>
 ![Java工程师之路](https://github.com/wind7rui/JavaHub/blob/master/pics/Javaer.png)
 
