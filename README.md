@@ -69,6 +69,9 @@
     - [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484263&idx=1&sn=9df870dc31a790b217f29884ba40ef53&chksm=e9bf51f9dec8d8ef71cdba6511ee85574105b00f6a1009b28489d4129dfecd103310526f9d36&token=1138093002&lang=zh_CN#rd)
     - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484573&idx=1&sn=40cd5ff38d36df649c52110198e941a8&chksm=e9bf5603dec8df156fbf662e579a2c0eb98517c178d10e37b371f817d8bac9688fd3e7a9a0e3&token=1138093002&lang=zh_CN#rd)
 
+  - 工具
+    - [想自学Maven？推荐Maven极简高速入门及常规使用](https://www.toutiao.com/i6823323322994917892/)
+    
 
 ## 关于我
 * [头条号：Java实战技术](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
