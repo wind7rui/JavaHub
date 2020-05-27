@@ -14,10 +14,20 @@
     - [就写了一行代码，被问了这么多问题](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484653&idx=1&sn=7d433692eaba49f33d90b1f81dafd23d&chksm=e9bf5673dec8df65f0511062a2e2bd9f55f091e8eba9a063ee8669ee7d50a62eb4c04f3bb071&token=1138093002&lang=zh_CN#rd)
     - [深入浅出JDK动态代理(一)](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483795&idx=1&sn=1877060f8f5dc6b471ab3ca9d0768294&chksm=e9bf530ddec8da1b2634f55726c54dce176b1fe2bb3a0a6a6ad427daeeb79e00f13252db3e20&token=1330907269&lang=zh_CN#rd)
     - [深入浅出JDK动态代理(二)](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483796&idx=1&sn=932a2d7ac1c10bba9917804c8e32b807&chksm=e9bf530adec8da1cfa9d825b882815b394e1e414d3b1c4344ac171dbc4de70fc6d2cd2bf7796&token=1330907269&lang=zh_CN#rd)
+    - [关于Cookie的细致总结](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483919&idx=1&sn=fc767e4e03641a16867f4e2f6b2e068c&chksm=e9bf5091dec8d987ed85e9f7142738a0fc114f1837e5935885be14751a4d65b3ff485fee7bca&token=1330907269&lang=zh_CN#rd)
+    - [Java中锁概念总结](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483946&idx=1&sn=70714d004c86bae1388453adc1095041&chksm=e9bf50b4dec8d9a245cfcd456b3a6b5df04a01793e7e13307ab750437e02e24a3ba627a8e7bd&token=1330907269&lang=zh_CN#rd)
+    
     
     
   - 网络基础
     - [TCP的三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483696&idx=1&sn=e68302415de160e1e7441e44860f5e15&chksm=e9bf53aedec8dab8e697910d5a3cab22e49e3d8dedea02353f948c0814d3f5d0358b96064afc&token=1330907269&lang=zh_CN#rd)
+    - [复习Session，看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483929&idx=1&sn=a0f2afba69a4a5d06d328771603865fc&chksm=e9bf5087dec8d9918c04487a368d2cb557d47ca0c621e57606b55c862a7dfc0afbf911b086d0&token=1330907269&lang=zh_CN#rd)
+  - Linux
+    - [开发工程师必会的Linux命令](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484043&idx=1&sn=3e6b2a1eb4879f28bc4dbe0bb8e93d6f&chksm=e9bf5015dec8d903c600d026c9b0972bc2a5168a23ef95d781e327230a51723158c34c4729ea&token=1330907269&lang=zh_CN#rd)
+  - MySQL基础
+    - [MySQL架构学习笔记](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484053&idx=1&sn=607e19356dddaf2df866d22e4f4d6511&chksm=e9bf500bdec8d91d7beb2b40e83be646c3c59640d7e50303271cc39fd0a818c09c474fa28e72&token=1330907269&lang=zh_CN#rd)
+    - [温故而知新-MySQL数据类型](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484064&idx=1&sn=c513801d9514aa31abf81e9635cb135b&chksm=e9bf503edec8d928b7ab0ed4798387fa8f49261391fe294488f69bddc7219d153860b30238f2&token=1330907269&lang=zh_CN#rd)
+    - [MySQL索引实战经验总结](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483942&idx=1&sn=842ec4a756e48743384d38be30ac064d&chksm=e9bf50b8dec8d9ae97ed4a69bba4d045d13c96813b0e503d5ec79a51b45bc1dada5363fc6f96&token=1330907269&lang=zh_CN#rd)
     
   
 - 提高篇
@@ -66,20 +76,23 @@
       - [Spring事务事件监控](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484528&idx=1&sn=92b3926cee2ea326b94800e970a37b3d&chksm=e9bf56eedec8dff8e3fbef7714e89a2c48f2aa1f4c7cfb283a7a762cef11975b70d92fc67997&token=1138093002&lang=zh_CN#rd)
       - [Spring Aop标签解析原理详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484533&idx=1&sn=7418444ef2a4a8a13400d283c9b70896&chksm=e9bf56ebdec8dffd4fff8797b37fcd10f68246f3fb9a7ba7e97f728d1b2fe75d8dca56a2b589&token=1138093002&lang=zh_CN#rd)
     
-  - Spring Boot2
-    - [深入Spring Boot (一)：快速入门](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484131&idx=1&sn=33fe0f3d15b0f2a8febe8b1521952463&chksm=e9bf507ddec8d96bc4e777f4ce58c95235769ad03ea1a2a28bb33590f0b8f4c1f62a223c58f3&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (二)：Spring Boot对构建系统的支持](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484139&idx=1&sn=abfaabae16a8d5351555e0e928f31d01&chksm=e9bf5075dec8d963fcf512303e9dbe0e46d147ffabf130afe98c880847bdd567cabe6977a1c2&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (三)：Properties属性配置文件使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484146&idx=1&sn=5f1bb502e1d2563d43c915f9c56ae07c&chksm=e9bf506cdec8d97aef9f9723fa1d55f2a56aa9c5961a8588aced407837a5a3e9ccb723384b9f&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (四)：YAML属性配置文件使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484153&idx=1&sn=9040ae2fba5b496101a0157d2baef80e&chksm=e9bf5067dec8d97103fab979ede73f3dfcd7639dfa0fb221dd9fe6174913bcce6abffcaa3404&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (五)：日志使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484159&idx=1&sn=eab381d860aad82cf11e4189ace39914&chksm=e9bf5061dec8d9770ae7761141004350f9d0bcbbf51c949e1da79698ffbfcbedae74c2c1e331&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (六)：使用SpringMVC框架创建Web应用](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484165&idx=1&sn=2fb1770179b1ecfe56ea29e102656ab2&chksm=e9bf519bdec8d88d0a797b1161e8845f66ddb5e42a9d457ebffac362f7a5084a6ac131eb3f93&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (七)：静态资源使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484172&idx=1&sn=54b966fe0bcf519ceb2cf6bc9d81e3bd&chksm=e9bf5192dec8d8845df42b5d11850311d35200669d363004e17d5ba86354a5e2a6c16f6ab4dc&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (八)：模板引擎使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484184&idx=1&sn=bd3a4cb8ae979a0ba06a5a21682c7610&chksm=e9bf5186dec8d89097215946daeb82f601d1a74f82055a651988015bc6924f7afdf16e69cc03&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (九)：Web应用统一异常处理](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484191&idx=1&sn=48490babed1259a2200fed11bafca523&chksm=e9bf5181dec8d89775de549fecf36320b224310c37dff7387f1341167ea2729040c7616e6009&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (十)：整合Mybatis框架详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484196&idx=1&sn=8367c785d3688a3c80891108414c84eb&chksm=e9bf51badec8d8ac6134e2d1f5460d943f604fc6a93e897f91b23bccc81e9b796b0903ec511d&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (十一)：整合Redis详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484207&idx=1&sn=8226ccbcaa075467d1fc6b659c4b8041&chksm=e9bf51b1dec8d8a7f818e690da9f1c558e78f81d8cd25875029fcf809927aed257eb23fe31cf&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484263&idx=1&sn=9df870dc31a790b217f29884ba40ef53&chksm=e9bf51f9dec8d8ef71cdba6511ee85574105b00f6a1009b28489d4129dfecd103310526f9d36&token=1138093002&lang=zh_CN#rd)
-    - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484573&idx=1&sn=40cd5ff38d36df649c52110198e941a8&chksm=e9bf5603dec8df156fbf662e579a2c0eb98517c178d10e37b371f817d8bac9688fd3e7a9a0e3&token=1138093002&lang=zh_CN#rd)
+    - Spring Boot2
+      - [深入Spring Boot (一)：快速入门](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484131&idx=1&sn=33fe0f3d15b0f2a8febe8b1521952463&chksm=e9bf507ddec8d96bc4e777f4ce58c95235769ad03ea1a2a28bb33590f0b8f4c1f62a223c58f3&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (二)：Spring Boot对构建系统的支持](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484139&idx=1&sn=abfaabae16a8d5351555e0e928f31d01&chksm=e9bf5075dec8d963fcf512303e9dbe0e46d147ffabf130afe98c880847bdd567cabe6977a1c2&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (三)：Properties属性配置文件使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484146&idx=1&sn=5f1bb502e1d2563d43c915f9c56ae07c&chksm=e9bf506cdec8d97aef9f9723fa1d55f2a56aa9c5961a8588aced407837a5a3e9ccb723384b9f&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (四)：YAML属性配置文件使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484153&idx=1&sn=9040ae2fba5b496101a0157d2baef80e&chksm=e9bf5067dec8d97103fab979ede73f3dfcd7639dfa0fb221dd9fe6174913bcce6abffcaa3404&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (五)：日志使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484159&idx=1&sn=eab381d860aad82cf11e4189ace39914&chksm=e9bf5061dec8d9770ae7761141004350f9d0bcbbf51c949e1da79698ffbfcbedae74c2c1e331&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (六)：使用SpringMVC框架创建Web应用](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484165&idx=1&sn=2fb1770179b1ecfe56ea29e102656ab2&chksm=e9bf519bdec8d88d0a797b1161e8845f66ddb5e42a9d457ebffac362f7a5084a6ac131eb3f93&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (七)：静态资源使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484172&idx=1&sn=54b966fe0bcf519ceb2cf6bc9d81e3bd&chksm=e9bf5192dec8d8845df42b5d11850311d35200669d363004e17d5ba86354a5e2a6c16f6ab4dc&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (八)：模板引擎使用详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484184&idx=1&sn=bd3a4cb8ae979a0ba06a5a21682c7610&chksm=e9bf5186dec8d89097215946daeb82f601d1a74f82055a651988015bc6924f7afdf16e69cc03&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (九)：Web应用统一异常处理](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484191&idx=1&sn=48490babed1259a2200fed11bafca523&chksm=e9bf5181dec8d89775de549fecf36320b224310c37dff7387f1341167ea2729040c7616e6009&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (十)：整合Mybatis框架详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484196&idx=1&sn=8367c785d3688a3c80891108414c84eb&chksm=e9bf51badec8d8ac6134e2d1f5460d943f604fc6a93e897f91b23bccc81e9b796b0903ec511d&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (十一)：整合Redis详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484207&idx=1&sn=8226ccbcaa075467d1fc6b659c4b8041&chksm=e9bf51b1dec8d8a7f818e690da9f1c558e78f81d8cd25875029fcf809927aed257eb23fe31cf&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484263&idx=1&sn=9df870dc31a790b217f29884ba40ef53&chksm=e9bf51f9dec8d8ef71cdba6511ee85574105b00f6a1009b28489d4129dfecd103310526f9d36&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484573&idx=1&sn=40cd5ff38d36df649c52110198e941a8&chksm=e9bf5603dec8df156fbf662e579a2c0eb98517c178d10e37b371f817d8bac9688fd3e7a9a0e3&token=1138093002&lang=zh_CN#rd)
+    - Spring Cloud
+      - [Hystrix实现分布式系统中的故障容错](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483913&idx=1&sn=644c1d880736fc8a09db4a5b83da0744&chksm=e9bf5097dec8d98157a7219aca1dbe70b56cec09bc0b4e7b8bcbc3fb2a4d1c1b8671f760e869&token=1330907269&lang=zh_CN#rd)
+      
 
   - 工具
     - [想自学Maven？推荐Maven极简高速入门及常规使用](https://www.toutiao.com/i6823323322994917892/)
