@@ -71,6 +71,8 @@
 
   - 工具
     - [想自学Maven？推荐Maven极简高速入门及常规使用](https://www.toutiao.com/i6823323322994917892/)
+    - [三分钟快速搞定git常规使用](https://www.toutiao.com/i6803339583179194892/)
+    
     
 
 ## 关于我
