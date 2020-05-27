@@ -72,6 +72,10 @@
   - 工具
     - [想自学Maven？推荐Maven极简高速入门及常规使用](https://www.toutiao.com/i6823323322994917892/)
     - [三分钟快速搞定git常规使用](https://www.toutiao.com/i6803339583179194892/)
+    - [神器BTrace快速入门](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483848&idx=1&sn=1d566e87d37849729b15707cb472ea7e&chksm=e9bf5356dec8da40fcb4a8a3937222b8c35e74f8a6550a9422c8643ab86b1f651fbb9f32ae6a&token=1330907269&lang=zh_CN#rd)
+    
+  - 高级篇
+  
     
     
 
