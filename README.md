@@ -93,6 +93,11 @@
     - Spring Cloud
       - [Hystrix实现分布式系统中的故障容错](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483913&idx=1&sn=644c1d880736fc8a09db4a5b83da0744&chksm=e9bf5097dec8d98157a7219aca1dbe70b56cec09bc0b4e7b8bcbc3fb2a4d1c1b8671f760e869&token=1330907269&lang=zh_CN#rd)
       
+  - 中间件
+    - Nacos
+      - [阿里开源组件Nacos实战操作之安装部署完整版](https://www.toutiao.com/i6847624001510965768/)
+      - [实战级详解Spring框架中引入阿里开源组件Nacos作配置中心](https://www.toutiao.com/i6858915853304332811/)
+      
 
   - 工具
     - [想自学Maven？推荐Maven极简高速入门及常规使用](https://www.toutiao.com/i6823323322994917892/)
