@@ -113,6 +113,7 @@
     - [分布式锁那点事](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484071&idx=1&sn=f2af23340ab34052109065dfc8163f35&chksm=e9bf5039dec8d92fc89155b2d742d11e75231daa6c390378940b34263d839b009a1def8bcf35&token=1330907269&lang=zh_CN#rd)
     - [浅谈分布式Session管理](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483935&idx=1&sn=03b2cfbe7d5b203e87bffef2bce31f6a&chksm=e9bf5081dec8d997c291b85774a61d6fe317c9feb23a12224a485273f4ccaad8199b76798dc1&token=1330907269&lang=zh_CN#rd)
     - [分布式事务入门篇](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483786&idx=1&sn=71226629c47d3fd83d19570805f4127c&chksm=e9bf5314dec8da02b6217129fec111ad582e69c9c0ce2feeb11843cd8f4e8e97e0a11f0d3755&token=1330907269&lang=zh_CN#rd)
+    - [聊一聊Redis官方置顶推荐的Java客户端Redisson](https://mp.weixin.qq.com/s/X9kJG_mz50TbaiEMAC90jA)
     
   - RPC 
     - [RPC框架的最简单实现](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483915&idx=1&sn=9c5afc77b83ce07fb73b8f80f015135e&chksm=e9bf5095dec8d9830deae1e3a8ebcadf7af3b05ee591c2133b6130163656a10f4d9a0660326b&token=1330907269&lang=zh_CN#rd)
