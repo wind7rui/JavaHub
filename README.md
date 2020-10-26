@@ -106,6 +106,7 @@
     - [开发环境利器vagrant](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483792&idx=1&sn=edb68d3cbfbe9f8db69540f6a3c6f319&chksm=e9bf530edec8da18c8ccbdecc913bc221186281e98be330e8495b936017113be29c57b9fd3c3&token=1330907269&lang=zh_CN#rd)
     - [再谈Vagrant](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484110&idx=1&sn=88d90f92e64a86eeee6ca2a9f4ed059f&chksm=e9bf5050dec8d9466a401a107c95bc9d228400b5569987eb64bcbb596a76bae5be62fe45b0e2&scene=21#wechat_redirect)
     - [Java开发常用工具类类库](https://github.com/wind7rui/Javalib)
+    - [Java开发人员必知的常用类库，这些你都知道吗？](https://mp.weixin.qq.com/s/VX6BL01gfYGXS-XHw3N3Jg)
     
 - 进阶篇
   - 分布式
