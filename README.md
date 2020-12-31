@@ -90,6 +90,8 @@
       - [深入Spring Boot (十一)：整合Redis详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484207&idx=1&sn=8226ccbcaa075467d1fc6b659c4b8041&chksm=e9bf51b1dec8d8a7f818e690da9f1c558e78f81d8cd25875029fcf809927aed257eb23fe31cf&token=1138093002&lang=zh_CN#rd)
       - [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484263&idx=1&sn=9df870dc31a790b217f29884ba40ef53&chksm=e9bf51f9dec8d8ef71cdba6511ee85574105b00f6a1009b28489d4129dfecd103310526f9d36&token=1138093002&lang=zh_CN#rd)
       - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484573&idx=1&sn=40cd5ff38d36df649c52110198e941a8&chksm=e9bf5603dec8df156fbf662e579a2c0eb98517c178d10e37b371f817d8bac9688fd3e7a9a0e3&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (十四)：jar/war打包解决方案](https://mp.weixin.qq.com/s/rKLTa0ewViXzlJegHSrHhg)
+      - [深入Spring Boot (十五)：web.xml去哪了](https://mp.weixin.qq.com/s/MlsgqHZZbe0ioKBvCp9duw)
     - Spring Cloud
       - [Hystrix实现分布式系统中的故障容错](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483913&idx=1&sn=644c1d880736fc8a09db4a5b83da0744&chksm=e9bf5097dec8d98157a7219aca1dbe70b56cec09bc0b4e7b8bcbc3fb2a4d1c1b8671f760e869&token=1330907269&lang=zh_CN#rd)
       
