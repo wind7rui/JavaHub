@@ -89,7 +89,7 @@
       - [深入Spring Boot (十)：整合Mybatis框架详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484196&idx=1&sn=8367c785d3688a3c80891108414c84eb&chksm=e9bf51badec8d8ac6134e2d1f5460d943f604fc6a93e897f91b23bccc81e9b796b0903ec511d&token=1138093002&lang=zh_CN#rd)
       - [深入Spring Boot (十一)：整合Redis详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484207&idx=1&sn=8226ccbcaa075467d1fc6b659c4b8041&chksm=e9bf51b1dec8d8a7f818e690da9f1c558e78f81d8cd25875029fcf809927aed257eb23fe31cf&token=1138093002&lang=zh_CN#rd)
       - [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484263&idx=1&sn=9df870dc31a790b217f29884ba40ef53&chksm=e9bf51f9dec8d8ef71cdba6511ee85574105b00f6a1009b28489d4129dfecd103310526f9d36&token=1138093002&lang=zh_CN#rd)
-      - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484573&idx=1&sn=40cd5ff38d36df649c52110198e941a8&chksm=e9bf5603dec8df156fbf662e579a2c0eb98517c178d10e37b371f817d8bac9688fd3e7a9a0e3&token=1138093002&lang=zh_CN#rd)
+      - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s/LvCRySBAugjgDg_iRa8wwg)
       - [深入Spring Boot (十四)：jar/war打包解决方案](https://mp.weixin.qq.com/s/rKLTa0ewViXzlJegHSrHhg)
       - [深入Spring Boot (十五)：web.xml去哪了](https://mp.weixin.qq.com/s/MlsgqHZZbe0ioKBvCp9duw)
     - Spring Cloud
