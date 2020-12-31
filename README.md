@@ -2,7 +2,7 @@
 ![Java工程师之路](https://img-blog.csdnimg.cn/20200608070735865.png)
 
 # 目录 
-不断完善中，内容列表较多，善于使用Ctrl+F
+持续更新中，内容列表较多，善于使用Ctrl+F
 - 基础篇
   - Java基础
     - [我画了25张图展示线程池工作原理和实现原理，原创干货，建议先收藏再阅读](https://mp.weixin.qq.com/s/1oEdi_J79lWaX0649N6BPg)
