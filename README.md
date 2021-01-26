@@ -92,6 +92,7 @@
       - [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s/LvCRySBAugjgDg_iRa8wwg)
       - [深入Spring Boot (十四)：jar/war打包解决方案](https://mp.weixin.qq.com/s/rKLTa0ewViXzlJegHSrHhg)
       - [深入Spring Boot (十五)：web.xml去哪了](https://mp.weixin.qq.com/s/MlsgqHZZbe0ioKBvCp9duw)
+      - [深入Spring Boot (十六)：从源码分析自动配置原理](https://mp.weixin.qq.com/s/IHzCiMv2SNPYm2CngBkvOQ)
     - Spring Cloud
       - [Hystrix实现分布式系统中的故障容错](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483913&idx=1&sn=644c1d880736fc8a09db4a5b83da0744&chksm=e9bf5097dec8d98157a7219aca1dbe70b56cec09bc0b4e7b8bcbc3fb2a4d1c1b8671f760e869&token=1330907269&lang=zh_CN#rd)
       
