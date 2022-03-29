@@ -105,6 +105,7 @@
   - 工具
     - [想自学Maven？推荐Maven极简高速入门及常规使用](https://www.toutiao.com/i6823323322994917892/)
     - [三分钟快速搞定git常规使用](https://www.toutiao.com/i6803339583179194892/)
+    - [Git常规使用备忘录](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484951&idx=1&sn=8a82b6f4c204007ace30734594f34f83&chksm=e9bf5489dec8dd9f32c841748a087d6e494c6e3afbba1cee9436340f4fa2207a7c0d08e8633c&token=1621801368&lang=zh_CN#rd)
     - [神器BTrace快速入门](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483848&idx=1&sn=1d566e87d37849729b15707cb472ea7e&chksm=e9bf5356dec8da40fcb4a8a3937222b8c35e74f8a6550a9422c8643ab86b1f651fbb9f32ae6a&token=1330907269&lang=zh_CN#rd)
     - [开发环境利器vagrant](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247483792&idx=1&sn=edb68d3cbfbe9f8db69540f6a3c6f319&chksm=e9bf530edec8da18c8ccbdecc913bc221186281e98be330e8495b936017113be29c57b9fd3c3&token=1330907269&lang=zh_CN#rd)
     - [再谈Vagrant](https://mp.weixin.qq.com/s?__biz=MzI0NjUxNTY5Nw==&mid=2247484110&idx=1&sn=88d90f92e64a86eeee6ca2a9f4ed059f&chksm=e9bf5050dec8d9466a401a107c95bc9d228400b5569987eb64bcbb596a76bae5be62fe45b0e2&scene=21#wechat_redirect)
